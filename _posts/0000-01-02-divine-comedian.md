@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+Our business in this world
+is not to succeed 
+but to continue to fail,
+in good spirits.
